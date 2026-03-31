@@ -53,13 +53,13 @@ sudo apt install git -y
 # Download Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/oss-audit-YOUR_ROLL_NUMBER.git
+git clone https://github.com/YOUR_USERNAME/oss-audit-24BEC10133.git
 ```
 
 Go inside the folder:
 
 ```bash
-cd oss-audit-YOUR_ROLL_NUMBER
+cd oss-audit-24BEC10133
 ```
 
 ---
